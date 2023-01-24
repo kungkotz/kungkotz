@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kotz</h1>
 # 💫 About Me:
-Front End Developer on an internship @ https://spring.se Currently working on a project together with Swedish Portraits Archive
+Front End Developer on an internship @ https://spring.se Currently working on a project together with https://portrttarkiv-kcb.se/about
 
 
 # 💻 Tech Stack:
